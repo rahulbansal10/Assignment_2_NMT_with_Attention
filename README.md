@@ -4,3 +4,5 @@ Models are trained on WMT Europarl parallel En-De corpus of 2M sentences.
 ## Running the code
 To run the code, firstly Download the WMT Europarl parallel En-De corpus. Paths to file are hardcoded, Please change the path while running.
 Run each cell of notebook sequentially.
+## Saving the model
+Model is saved after every epoch. Please change the path to folders in which models are saved.
